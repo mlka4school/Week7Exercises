@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\bin\Debug\GeomClasses.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\bin\Debug\GeomClasses.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\bin\Debug\GeomClasses.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\obj\Debug\GeomClasses.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\obj\Debug\GeomClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\obj\Debug\GeomClasses.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\obj\Debug\GeomClasses.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\GeomClasses\obj\Debug\GeomClasses.pdb

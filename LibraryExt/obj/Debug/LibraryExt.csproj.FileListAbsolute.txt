@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\bin\Debug\LibraryExt.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\bin\Debug\LibraryExt.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\bin\Debug\LibraryExt.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\obj\Debug\LibraryExt.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\obj\Debug\LibraryExt.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\obj\Debug\LibraryExt.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\obj\Debug\LibraryExt.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week7Exercises\LibraryExt\obj\Debug\LibraryExt.pdb
